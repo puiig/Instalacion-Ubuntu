@@ -51,10 +51,9 @@ Instalación de Ubuntu
 Vemos la pantalla de Grub y elegimos la opción "Try or install Ubuntu" y le damos a la tecla "enter".
 
 
-Elegimos el idioma y hacempos click en unstalar Ubuntu
+Elegimos el idioma y hacempos click en unstalar Ubuntu y elegimos la distribuycion del teclado.
 
-
-elegimos la distribuycion del teclado
+![](https://github.com/puiig/Instalaci-nUbuntu/blob/96befd07f687c9fb8a7056ef7dc63b1c60c91e5e/Elecci%C3%B3n.png)
 
 
 Seleccionamos nuestra region
